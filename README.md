@@ -1,2 +1,1 @@
-# grafana-configs
-grafana configuration setup for loki, prometheus and promtail
+# Grafana Configuration Setup AWS EC2
